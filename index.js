@@ -1,0 +1,1 @@
+console.log("Created a js file from vs code");
